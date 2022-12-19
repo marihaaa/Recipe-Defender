@@ -1,0 +1,4 @@
+repository "Game Showcase Test@TeamProject_RecipeDefender@cloud"
+  path "/"
+    br "/main"
+    co "/main"

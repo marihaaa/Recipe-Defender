@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a8dae5d81195c9c4db90fe24b53960fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Munro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0cd4a1a53943b3744822e6af8adade8e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
